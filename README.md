@@ -1,0 +1,1 @@
+So I will now make a landing page following a certain layout. I will start from top to bottom although I think setting up the footer may be more important than I think but we will see.
