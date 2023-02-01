@@ -3,13 +3,23 @@
     padding: 0;
 }
 
-.container {
+h1 {
+    font-size: 48px;
+    color: #f9faf8;
+}
+
+p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.top-container {
     display: flex;
     flex-direction: column;
     background-color: #1f2937;
     padding: 0;
     margin: 0;
-    color: #f9faf8;
+    height: 55vh;
 }
 
 img {
@@ -31,21 +41,23 @@ img {
 
 ul {
     list-style: none;
+    font-size: 18px;
+    color: #e5e7eb;
 }
 
 .header-links {
     display: flex;
-    gap: 8px;
+    gap: 16px;
     padding: 0;
     margin-top: 2vh;
 }
 
 .start-info {
-    margin-top: 9vh;
+    margin-top: 8vh;
     display: flex;
     flex-direction: row;
     justify-content: center;
-    gap: 30px;
+    gap: 60px;
 }
 
 .column-info {
@@ -59,6 +71,6 @@ ul {
 }
 
 .rain-photo {
-    width: 300px;
-    height: 178px;
+    width: 400px;
+    height: 223px;
 }
