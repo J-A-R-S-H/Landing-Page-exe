@@ -1,4 +1,4 @@
-body {
+* {
     margin: 0;
     padding: 0;
 }
@@ -9,6 +9,7 @@ body {
     background-color: #1f2937;
     padding: 0;
     margin: 0;
+    color: #f9faf8;
 }
 
 img {
@@ -23,18 +24,28 @@ img {
 }
 
 .header-logo {
-    width: 120px;
-    height: 100px;
+    width: 100px;
+    height: 80px;
 }
 
-
-.header-links {
-    display: flex;
-    gap: 6px;
-    padding: 0;
-    margin: 0;
-}
 
 ul {
     list-style: none;
+}
+
+.header-links {
+    display: flex;
+    gap: 8px;
+    padding: 0;
+    margin-top: 2vh;
+}
+
+.start-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.sign-up-btn {
+    width: 150px;
+    height: 50px;
 }
