@@ -165,3 +165,27 @@ ul {
     display: flex;
     flex-direction: column;
 }
+
+.text-cta-top {
+    font-size: 30px;
+    color: #f9faf8;
+}
+
+.text-cta-lower {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.sign-up-btn-white {
+    border-style: solid;
+    background: none;
+    border-radius: 8px;
+    font-size: 18px;
+    color: #f9faf8;
+    border-color: #f9faf8;
+    border-width: 2px;
+    width: 140px;
+    height: 40px;
+    font-size: 18px;
+    color: #f9faf8;
+}
