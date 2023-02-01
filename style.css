@@ -8,6 +8,11 @@ h1 {
     color: #f9faf8;
 }
 
+h2 {
+    font-size: 36px;
+    color: #1F2937;
+}
+
 p {
     font-size: 18px;
     color: #e5e7eb;
@@ -90,6 +95,7 @@ ul {
 .container-showcase {
     display: flex;
     flex-direction: row;
+    gap: 48px;
 }
 
 .info-container {
