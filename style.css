@@ -117,3 +117,19 @@ ul {
     font-size: 18px;
     margin-top: 8px;
 }
+
+.quote-background {
+    background-color: #e5e7eb;
+    height: 55vh;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.attribution {
+    font-size: 36px;
+    color: #1F2937;
+}
