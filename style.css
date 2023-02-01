@@ -41,6 +41,14 @@ ul {
 }
 
 .start-info {
+    margin-top: 9vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+}
+
+.column-info {
     display: flex;
     flex-direction: column;
 }
@@ -48,4 +56,9 @@ ul {
 .sign-up-btn {
     width: 150px;
     height: 50px;
+}
+
+.rain-photo {
+    width: 300px;
+    height: 178px;
 }
