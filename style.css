@@ -143,3 +143,25 @@ ul {
     font-size: 36px;
     color: #1F2937;
 }
+
+.cta-background {
+    height: 55vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cta-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    border-radius: 8px;
+    width: 1000px;
+    height: 150px;
+}
+
+.left-text-cta {
+    display: flex;
+    flex-direction: column;
+}
